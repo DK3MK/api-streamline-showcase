@@ -13,7 +13,6 @@ Welcome to **API Streamline Showcase**, a collection of APIs across various cate
 
 ### 🔹 1. AI (28 APIs)
 - Advanced AI models for text, images, and more.
-- **Example Endpoint:** `/api/ai/text-generator`
 
 #### ➤ API Examples:
 
