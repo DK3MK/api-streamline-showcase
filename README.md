@@ -747,7 +747,7 @@ Welcome to **API Streamline Showcase**, a collection of APIs across various cate
 
 - **🚀 Installation & Usage**
 ```bash
-git clone https://github.com/yourusername/api-streamline-showcase.git
+git clone https://github.com/DK3MK/api-streamline-showcase.git
 cd api-streamline-showcase
 npm install  # If needed
 ```
