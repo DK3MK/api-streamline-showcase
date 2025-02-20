@@ -489,7 +489,7 @@ curl -X GET "https://api-streamline-pro.vercel.app/api/ai/chat-chars?prompt=hi&u
   "developer": "dark man 👾",
   "status": "success ✅",
   "message": "Data fetched successfully! 🎉",
-  "char": "Hello! How can I help you today?"
+  "char": "Hello! I'm Elon Musk, CEO of Tesla and SpaceX. How can I help you today?"
 }
 ```
 </details>
