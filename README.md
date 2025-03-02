@@ -17,6 +17,40 @@ Welcome to the **[API Streamline]** documentation! This guide provides simple ex
 Our API is divided into six categories, each serving different functionalities:
 
 ## **1. Ai** 🤖
+### **gpt 4o mini**:
+- **Example Request:**
+```bash
+curl -X GET "https://api-streamline.onrender.com/api/ai/gpt-4o-mini-v2?prompt=hi&userid=123"
+```
+<details> <summary>🔽 JSON Response</summary>
+
+```json
+{
+  "developer": "dark man 👾",
+  "status": "success ✅",
+  "message": "Data fetched successfully! 🎉",
+  "gpt": "Hello! How can I assist you today?"
+}
+```
+</details>
+
+### **claude haiku**:
+- **Example Request:**
+```bash
+curl -X GET "https://api-streamline.onrender.com/api/ai/claude-haiku-v3?prompt=hi&userid=0123"
+```
+<details> <summary>🔽 JSON Response</summary>
+
+```json
+{
+  "developer": "dark man 👾",
+  "status": "success ✅",
+  "message": "Data fetched successfully! 🎉",
+  "claude": "Hello! I'm an AI assistant created by Anthropic. I'm happy to chat with you and help out however I can. Please let me know if you have any questions or if there's anything I can assist with."
+}
+```
+</details>
+
 ### **ChatGPT**:
 - **Example Request:**
 ```bash
